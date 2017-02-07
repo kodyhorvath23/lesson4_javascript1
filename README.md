@@ -4,16 +4,16 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+February 10, 2017
 
 ### Student Name:  
-(First and Last Name)
+Kody Horvath
 
 ### Project Description:
 This lesson was designed to help us become familar with javascript by showing us the basics through coding an assignment for a monthly expenses calculator. 
 
 ### View Project:
-https://github.com/kodyhorvath23/lesson4_javascript1
+https://kodyhorvath23.github.io/lesson4_javascript1/
 
 ### Lessons Learned in the Assignment:
 1. The first lesson I learned was the getElementById() method, which returns the element that has the ID attribute with the specified value. 
