@@ -10,13 +10,12 @@ LIS 2360:  Web Application Development
 (First and Last Name)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+This lesson was designed to help us become familar with javascript by showing us the basics through coding an assignment for a monthly expenses calculator. 
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://github.com/kodyhorvath23/lesson4_javascript1
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The first lesson I learned was the getElementById() method, which returns the element that has the ID attribute with the specified value. 
+2. The second lesson I learned was the onClick method, which is used to associate an event with each button.
+3. The third lesson I learned was the document.getElementById() method, which retrieves the first element in the HTMl document with the specified ID. 
